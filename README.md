@@ -67,3 +67,6 @@ $ npm install lucide-react
 ```
 $ npm install recharts@latest
 ```
+
+## Visualizar
+https://trede-see-dash.vercel.app/
