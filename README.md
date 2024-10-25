@@ -1,4 +1,6 @@
 Dashboard Análise De Investimentos 
+
+https://analytical-cripto-dash.vercel.app/
 =========
 
 > "Teste de UI/UX <br>📌 Criar uma dashboard com um interface de usuário criativa e intuitiva. <br> 1. Utilizar linguagens JavaScript e qualquer framework; <br> 2. A aplicação deverá ser responsiva para web e mobile; <br> 3. Fazer um breve descrição justificando os elementos e as paletas de cores; <br> 4. Subir o projeto em um repositório no github e compartilhar; <br> 5. Não será permitido plágios e códigos de IA."
@@ -67,6 +69,3 @@ $ npm install lucide-react
 ```
 $ npm install recharts@latest
 ```
-
-## Visualizar
-https://trede-see-dash.vercel.app/
